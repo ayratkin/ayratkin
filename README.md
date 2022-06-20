@@ -3,6 +3,8 @@ Welcome to the profile of a beginner <strong><i>Front-End (React)</i></strong> d
 
 My name is <a href="https://t.me/ayratkin"> <strong>Ayrat</strong> </a>, I live in Kazan and I'm graduating from the university here. I have been studying <strong><i>Web Development</i></strong> diligently for the last year and looking for my first commercial experience!
 
+<br>
+
 <h2>My Skills: </h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,12 +23,19 @@ My name is <a href="https://t.me/ayratkin"> <strong>Ayrat</strong> </a>, I live 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<br>
+
 <h2>My Social Networks: </h2>
-    
+
+
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ayratkin)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/airat.zip)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/airat-kalimov-19940423b)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/wsjttui)
+
+<br>
+
+<h2>My Github Statistics: </h2>
 
 [![](https://raw.githubusercontent.com/ayratkin/ayratkin/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ayratkin/ayratkin/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
