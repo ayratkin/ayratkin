@@ -1,10 +1,9 @@
 <h1>Oh, Hello!</h1>
 Welcome to the profile of a beginner <strong><i>Front-End (React)</i></strong> developer! <br><br>
 
-My name is Airat, I live in Kazan and I'm graduating from the university here. I have been studying <strong><i>Web Development</i></strong> diligently for the last year and looking for my first commercial experience!
+My name is <a href="https://t.me/ayratkin"> <strong>Ayrat</strong> </a>, I live in Kazan and I'm graduating from the university here. I have been studying <strong><i>Web Development</i></strong> diligently for the last year and looking for my first commercial experience!
 
-<h2>My Skills</h2>
-
+<h2>My Skills: </h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,6 +18,15 @@ My name is Airat, I live in Kazan and I'm graduating from the university here. I
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<h2>My social networks: </h2>
+
+<a href="t.me/ayratkin">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+</a>
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
 
 [![](https://raw.githubusercontent.com/ayratkin/ayratkin/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ayratkin/ayratkin/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
