@@ -23,10 +23,10 @@ My name is <a href="https://t.me/ayratkin"> <strong>Ayrat</strong> </a>, I live 
 
 <h2>My social networks: </h2>
 
-<a href="t.me/ayratkin">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-</a>
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)]([https://](https://t.me/ayratkin))
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)]([https://www.instagram.com/alexeyshpavda](https://www.instagram.com/airat.zip/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)]([https://www.linkedin.com/in/airat-kalimov-19940423b/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/wsjttui)
 
 [![](https://raw.githubusercontent.com/ayratkin/ayratkin/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ayratkin/ayratkin/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
