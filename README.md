@@ -3,7 +3,6 @@ Welcome to the profile of a beginner <strong><i>Front-End (React)</i></strong> d
 
 My name is <a href="https://t.me/ayratkin"> <strong>Ayrat</strong> </a>, I live in Kazan and I'm graduating from the university here. I have been studying <strong><i>Web Development</i></strong> diligently for the last year and looking for my first commercial experience!
 
-<br>
 
 <h2>My Skills: </h2>
 
@@ -23,7 +22,6 @@ My name is <a href="https://t.me/ayratkin"> <strong>Ayrat</strong> </a>, I live 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
 
 <h2>My Social Networks: </h2>
 
@@ -33,7 +31,6 @@ My name is <a href="https://t.me/ayratkin"> <strong>Ayrat</strong> </a>, I live 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/airat-kalimov-19940423b)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/wsjttui)
 
-<br>
 
 <h2>My Github Statistics: </h2>
 
