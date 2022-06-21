@@ -35,4 +35,4 @@ My name is <a href="https://t.me/ayratkin"> <strong>Ayrat</strong> </a>, I live 
 [![](https://raw.githubusercontent.com/ayratkin/ayratkin/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ayratkin/ayratkin/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=6000&color=0366D6&background=FFFFFF00&width=600&height=60&lines=Thank+you+for+visiting+my+profile.+Come+back+again.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&duration=4000&color=0366D6&width=600&height=30&lines=Thank+you+for+visiting+my+profile.+See+you+again;HTML+is+the+best+programming+language)](https://git.io/typing-svg)
