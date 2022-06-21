@@ -1,7 +1,7 @@
-<h1>Oh, Hello!</h1>
+<h1>Oh, Hi! 👋🏻</h1>
 Welcome to the profile of a beginner <strong><i>Front-End (React)</i></strong> developer! <br><br>
 
-My name is <a href="https://t.me/ayratkin"> <strong>Ayrat</strong> </a>, I live in Kazan and I'm graduating from the university here. I have been studying <strong><i>Web Development</i></strong> diligently for the last year and looking for my first commercial experience!
+My name is <a href="https://t.me/ayratkin"> <strong>Ayrat</strong> </a>, I live in Kazan and I'm graduating from the university here. I have been studying <strong><i>Web Development</i></strong> diligently for the last year and looking for my first commercial experience! 
 
 
 <h2>My Skills: </h2>
