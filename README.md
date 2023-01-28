@@ -1,9 +1,6 @@
 <h1>Oh, Hi! 👋🏻</h1>
 Welcome to the profile of a beginner <strong><i>Front-End (React)</i></strong> developer! <br><br>
 
-My name is <a href="https://t.me/ayratkin"> <strong>Ayrat</strong> </a>, I live in Kazan and I'm graduating from the university here. I have been studying <strong><i>Web Development</i></strong> diligently for the last year and looking for my first commercial experience.  
-
-
 <h2>My Skills: </h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
