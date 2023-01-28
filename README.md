@@ -1,5 +1,5 @@
-<h1>Oh, Hi! 👋🏻</h1>
-Welcome to the profile of a beginner <strong><i>Front-End (React)</i></strong> developer! <br><br>
+<h2>Oh, Hi! 👋🏻</h2>
+Welcome to the profile of a beginner <strong>Front-End (React)</strong> developer! <br><br>
 
 <h2>My Social Networks: </h2>
 
