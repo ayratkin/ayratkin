@@ -1,6 +1,3 @@
-<h2>Oh, Hi! 👋🏻</h2>
-Welcome to the profile of <strong>Front-End (React)</strong> developer! <br><br>
-
 <h2>My Social Networks: </h2>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/airat-kalimov-19940423b)
